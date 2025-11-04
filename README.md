@@ -1,2 +1,2 @@
-# Taller_5
-MLP_inicial.ipynb.
+Integrante 1: Julian Rodriguez
+Integrante 2: Yerson Gomez
